@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.new-tab {
+    background: #DDD;
+    text-align: center;
+    padding: 8px 0px;
+    margin-bottom: 12px;
+}
